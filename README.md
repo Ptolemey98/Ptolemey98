@@ -1,4 +1,3 @@
----
 ## :computer: About Me :
 ### **My name is Alexander 👋:** 
 ### **I'm Data Science and Love working with data.**
@@ -10,6 +9,7 @@
  <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=Ptolemey98&style=flat-square&color=green" alt=""/>
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
