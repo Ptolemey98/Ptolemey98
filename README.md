@@ -6,7 +6,7 @@
 </div>
 
 ### :computer: About Me :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=2435F7&background=FFFFFF00&repeat=false&width=600&height=40&lines=My+name+is+Alexander+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=2435F7&background=FFFFFF00&repeat=false&width=600&height=40&lines=My+name+is+Alexandr+%F0%9F%91%8B)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=2435F7&background=FFFFFF00&repeat=false&width=600&height=40&lines=I'm+Data+Science+and+Love+working+with+data)](https://git.io/typing-svg)
 
 
