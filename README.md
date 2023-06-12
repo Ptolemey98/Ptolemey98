@@ -1,4 +1,5 @@
-### :computer: About Me :
+---
+## :computer: About Me :
 ### **My name is Alexander 👋:** 
 ### **I'm Data Science and Love working with data.**
 
