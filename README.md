@@ -1,4 +1,4 @@
- ![image](https://github.com/Ptolemey98/Ptolemey98/assets/113921336/eab45221-b407-4f7f-901e-83e044b167be)
+![image](https://github.com/Ptolemey98/Ptolemey98/assets/113921336/b20ecced-6b09-44ce-b23c-216c8908b25b)
 
  <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=Ptolemey98&style=flat-square&color=green" alt=""/>
