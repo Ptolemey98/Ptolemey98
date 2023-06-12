@@ -1,6 +1,6 @@
 ### :computer: About Me :
-###**My name is Alexander 👋:** 
-###**I'm Data Science and Love working with data.**
+### **My name is Alexander 👋:** 
+### **I'm Data Science and Love working with data.**
 
 - :iphone: My socials: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ptolemey_f/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=black)](https://ptolemeyf@gmail.com),
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/----/), 
