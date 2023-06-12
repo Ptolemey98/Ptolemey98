@@ -1,11 +1,3 @@
-# Ptolemey_view
-
-<div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=Ptolemey98&style=flat-square&color=blue" alt=""/>
-</div>
-
----
-
 ### :computer: About Me :
 **My name is Alexander Semenov.** 
 **I'm Data Science and Love working with data.**
@@ -14,6 +6,9 @@
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/----/), 
 - [![Habr Badge](https://img.shields.io/badge/-Habr-9cf?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/----/)
  
+ <div id="counter" align="center">
+<img src="https://komarev.com/ghpvc/?username=Ptolemey98&style=flat-square&color=blue" alt=""/>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
