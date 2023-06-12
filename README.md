@@ -1,9 +1,8 @@
 ### :computer: About Me :
 #### **My name is Alexander 👋:** **I'm Data Science and Love working with data.**
 
-- :iphone: My socials: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ptolemey_f/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=black)](https://ptolemeyf@gmail.com),
-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/----/), 
-- [![Habr Badge](https://img.shields.io/badge/-Habr-9cf?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/----/)
+
+- :iphone: My socials: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ptolemey_f/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=black)](https://ptolemeyf@gmail.com), [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/----/), [![Habr Badge](https://img.shields.io/badge/-Habr-9cf?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/----/)
  
  <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=Ptolemey98&style=flat-square&color=green" alt=""/>
