@@ -3,7 +3,7 @@
 </div>
 
 ### :computer: About Me :
-#### **My name is Alexander 👋:** **I'm Data Science and Love working with data.**
+#### **My name is Alexander 👋:**[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Data+Science+and+Love+working+with+data)](https://git.io/typing-svg)
 
 - :iphone: My socials: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ptolemey_f/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=black)](https://ptolemeyf@gmail.com), [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/----/), [![Habr Badge](https://img.shields.io/badge/-Habr-9cf?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/----/)
  
