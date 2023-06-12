@@ -1,13 +1,13 @@
 # Ptolemey_view
 
-### :Desktop Computer: About Me :
+### :computer: About Me :
 **My name is Alexander Semenov.** 
 **I'm Data Science and Machine learning fan.**
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">  
+<div>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="80" height="80"/>&nbsp;
 
